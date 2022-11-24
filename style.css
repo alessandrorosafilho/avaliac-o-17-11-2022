@@ -2,7 +2,11 @@ body {
      backgraund: #ff0
 }
 
-p {
+#mecanica1.jpg {
+    width:  100%;
+}
+
+h1 {
     texto-align: center;
 }
 
